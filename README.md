@@ -22,3 +22,9 @@ To see the app in action, please visit [https://my-todo-app-kohl.vercel.app/](ht
 - Vercel
 
 
+# Installation
+
+**cd todo_list_react**
+**npm install**
+**npm start**
+
